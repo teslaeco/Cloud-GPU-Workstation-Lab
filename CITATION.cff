@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Cloud GPU Workstation Lab
+message: If this project helped your work, please cite it using this metadata.
+type: software
+authors:
+  - family-names: Laskowski
+    given-names: Sebastian
+version: 0.1.0
+date-released: 2026-08-05
+license: Apache-2.0
+repository-code: https://github.com/teslaeco/Cloud-GPU-Workstation-Lab
+url: https://github.com/teslaeco/Cloud-GPU-Workstation-Lab
+keywords:
+  - cloud-gpu
+  - game-development
+  - artificial-intelligence
+  - unreal-engine
+  - gpu-workstation
+  - h100
+  - nvidia-l4

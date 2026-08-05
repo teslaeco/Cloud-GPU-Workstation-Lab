@@ -1,0 +1,29 @@
+name: Feature request
+description: Propose a new guide, script, provider integration, or tested workflow.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What user problem should this change solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the guide, script, or workflow you propose.
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Cost, security, and compatibility risks
+      description: Include provider lock-in, billing, licensing, and backward-compatibility considerations.
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verification plan
+      description: Explain how the change can be tested safely.
