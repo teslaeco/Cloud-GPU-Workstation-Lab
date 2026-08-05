@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: mailto:kontakt@teslaeco.pl
+    about: Report credentials, access-control problems, or exploitable configuration details privately.
