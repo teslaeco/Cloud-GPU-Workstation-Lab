@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Educational cloud-rental versus hardware-purchase estimator."""
 
 from __future__ import annotations
